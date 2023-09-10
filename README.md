@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-The challenge at hand is to create a Decentralized Application (DApp) for managing medical insurance claims within the ConsenSys ecosystem. The process involves several key steps:
+The challenge at hand is to create a Decentralized Application (DApp) for managing medical insurance claims within the ecosystem. The process involves several key steps:
 
 1. **Patient Interaction:**
    - Patients log in to the system, where they can upload their medical and lab test bills for insurance claims.
